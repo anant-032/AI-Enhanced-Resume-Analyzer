@@ -1,0 +1,55 @@
+{
+  "Google": {
+    "Software Engineer": {
+      "level": "L3–L5",
+      "domain": "Backend / Systems",
+      "source": "career.google.com (simulated)",
+      "jd": "Design, develop, test, deploy, and maintain scalable software systems. Required skills include strong knowledge of data structures and algorithms, proficiency in Java, C++, Python, or Go, experience with system design, distributed systems, APIs, databases, and debugging large-scale production systems. Candidates should demonstrate problem-solving ability, code quality, and performance optimization."
+    },
+    "Frontend Engineer": {
+      "level": "L3–L4",
+      "domain": "Frontend",
+      "source": "career.google.com (simulated)",
+      "jd": "Build responsive, accessible, and high-performance user interfaces. Required skills include strong proficiency in JavaScript, HTML, CSS, and React. Experience with state management, performance optimization, accessibility standards (WCAG), cross-browser compatibility, and frontend testing frameworks is required."
+    }
+  },
+
+  "Amazon": {
+    "Backend Engineer": {
+      "level": "SDE I / II",
+      "domain": "Backend / Cloud",
+      "source": "amazon.jobs (simulated)",
+      "jd": "Design, build, and operate backend services and APIs. Required skills include strong coding ability in Java, Python, or C++, experience with RESTful APIs, databases (SQL and NoSQL), distributed systems, scalability, and reliability. Familiarity with AWS services, monitoring, and production troubleshooting is expected."
+    },
+    "Frontend Engineer": {
+      "level": "SDE I / II",
+      "domain": "Frontend",
+      "source": "amazon.jobs (simulated)",
+      "jd": "Develop customer-facing web applications using JavaScript, HTML, CSS, and modern frontend frameworks such as React. Required skills include UI performance optimization, accessibility best practices, frontend testing, and integration with backend APIs."
+    }
+  },
+
+  "Microsoft": {
+    "Software Engineer": {
+      "level": "Level 59–61",
+      "domain": "Full Stack / Systems",
+      "source": "careers.microsoft.com (simulated)",
+      "jd": "Develop reliable, secure, and maintainable software solutions. Required skills include proficiency in C#, Java, or C++, understanding of object-oriented design, system design, cloud platforms, APIs, and collaborative development practices. Experience with Azure, debugging, and performance tuning is a plus."
+    }
+  },
+
+  "Startup": {
+    "Full Stack Developer": {
+      "level": "Any",
+      "domain": "Full Stack",
+      "source": "startup hiring (simulated)",
+      "jd": "Build end-to-end web applications across frontend and backend. Required skills include JavaScript, a frontend framework (React or similar), backend development using Node.js or equivalent, REST APIs, databases, and deployment workflows. Strong ownership, problem-solving ability, and adaptability are essential."
+    },
+    "Backend Developer": {
+      "level": "Any",
+      "domain": "Backend",
+      "source": "startup hiring (simulated)",
+      "jd": "Design and implement backend services and APIs. Required skills include server-side programming, databases, authentication, scalability concepts, and deployment. Experience with cloud platforms and performance optimization is preferred."
+    }
+  }
+}
